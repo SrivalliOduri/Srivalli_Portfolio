@@ -1,0 +1,14 @@
+{
+  "name": "srivalli_portfolio",
+  "version": "1.0.0",
+  "description": "My personal portfolio website",
+  "homepage": "https://srivallioduri.github.io/Srivalli_Portfolio",
+  "scripts": {
+    "predeploy": "echo Skipping build",
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
+
